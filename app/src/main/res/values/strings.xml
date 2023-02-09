@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">stopScrolling</string>
+    <string name="title_home">stopScrolling</string>
+    <string name="title_dashboard">Things To Do Instead</string>
+    <string name="title_settings">Settings</string>
+    <string name="selectApps_Button">Select Apps</string>
+    <string name ="popUp_Limit_Text" >It\'s time to stopScrolling.</string>
+    <string name="limit_Text">Set your limit:</string>
+    <string name="timer_first_Option"> 1 min</string>
+    <string name="timer_second_Option"> 5 min</string>
+    <string name="timer_third_Option"> 10 min</string>
+    <string name="notification_title">stopScrolling</string>
+    <string name="notification_message">stopScrolling is active!</string>
+    <string name="ticker_text">huh?</string>
+    <string name="channel_name">CHANNEL_DEFAULT</string>
+    <string name="channel_description">default channel</string>
+    <string name="enforce_popUp_Text">Time\'s Up!</string>
+    <string name="keep_Text">Keep Scrolling:</string>
+    <string name="enforce_first_Option">Show other things you could be doing</string>
+    <string name="enforce_second_Option">Close App</string>
+    <string name="enforce_third_Option">Close App &amp; Block Reopening</string>
+    <string name="block_text">You chose to stopScrolling.</string>
+    <string name="block_timer_text">Time Left:</string>
+    <string name="block_duration_text">App Block Duration</string>
+
+</resources>
