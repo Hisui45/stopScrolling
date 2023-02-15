@@ -45,7 +45,7 @@
                     android:id="@+id/textView"
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
-                    android:fontFamily="monospace"
+                    android:fontFamily="cursive"
                     android:text="@string/popUp_Limit_Text"
                     android:textColor="@color/white"
                     android:textSize="20sp"
