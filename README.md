@@ -10,5 +10,7 @@ When faced with this challenge, I searched the app store for a solution, only to
 
 ## Architecture
 This project is exclusively written in Java.
+
 stopScrolling() is implemented following the MVC (Model View Controller) architecture pattern.
+
 The project uses XML for UI, and Shared Preferences for data persistence. 
